@@ -24,7 +24,7 @@
         </weaponTags>
         <costList>
             <Steel>30</Steel>
-            <ComponentIndustrial>8</ComponentIndustrial>
+            <ComponentIndustrial>6</ComponentIndustrial>
         </costList>
         <recipeMaker>
             <researchPrerequisite>Stargate_Goauld_Weapons</researchPrerequisite>
@@ -112,7 +112,7 @@
         </weaponTags>
         <costList>
             <Steel>80</Steel>
-            <ComponentIndustrial>12</ComponentIndustrial>
+            <ComponentIndustrial>14</ComponentIndustrial>
         </costList>
         <recipeMaker>
             <researchPrerequisite>Stargate_Goauld_Weapons</researchPrerequisite>
